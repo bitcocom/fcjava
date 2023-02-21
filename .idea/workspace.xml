@@ -4,90 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2df28cd9-b67f-4d22-896c-741d4fcf3956" name="Changes" comment="fcjava">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/AllStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/CarUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MemberDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MempVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MovieVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MyUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/MyUtil1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/PersonVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/RempVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/AccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/AllStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/BestVOModeling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/CarUtilityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ClassObjectInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ConstructorInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ConstructorOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/NoneStaticAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/NoneStaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PackageNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonAccessTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/PersonInfoHide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/SetterGetterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StaticAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StaticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StudentArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part3/ToStringPrint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FastCampus/fc/java/part3/MemberDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ApiOverloading.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArithmeticOperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayBasicTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayMake.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AssignOperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BasicArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BookTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BreakContinueTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CallByReference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CallByReferenceExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CastingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CatTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FindAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ForLoopTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourArithmetic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GuGuDanTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElseIfTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfElseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IfbasicTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LogicalOperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoopLoopTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxMinValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Member.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MemberTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodMakeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Movie.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MovieTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectArrayExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OverloadingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrePostOperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RelationalOperTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScannerExam.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ScannerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwitchCaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoDimArrayInit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoDimArrayTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VDATest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhileLoopTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fc/java/part3/MemberDTO.java" beforeDir="false" />
-    </list>
+    <list default="true" id="2df28cd9-b67f-4d22-896c-741d4fcf3956" name="Changes" comment="fcjava" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -255,7 +172,7 @@
       <workItem from="1675734115159" duration="6635000" />
       <workItem from="1675828651824" duration="2480000" />
       <workItem from="1675844900378" duration="3102000" />
-      <workItem from="1676941610824" duration="415000" />
+      <workItem from="1676941610824" duration="720000" />
     </task>
     <task id="LOCAL-00001" summary="fcjava">
       <created>1675228410986</created>
@@ -271,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675228668441</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fcjava">
+      <created>1676942223406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676942223406</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
