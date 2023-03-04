@@ -4,7 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2df28cd9-b67f-4d22-896c-741d4fcf3956" name="Changes" comment="fcjava" />
+    <list default="true" id="2df28cd9-b67f-4d22-896c-741d4fcf3956" name="Changes" comment="fcjava">
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/AbstractClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/DogCatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/DogCatUpcastingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/EmployeeInitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/IsNotOverride.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectPolyArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectPolyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectToString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/OverrideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyMethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/RempVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/RemoCon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/MempVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fc/java/model/RempVO.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +71,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/fcjava/FastCampus/src&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/fcjava/FastCampus/src/fc/java/poly&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
@@ -45,16 +81,17 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\fcjava\FastCampus\src\fc\java\poly" />
       <recent name="C:\fcjava\FastCampus\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeTest">
-    <configuration name="AllStaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part3.AllStaticTest" />
+  <component name="RunManager" selected="Application.ObjectToString">
+    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part4.InterfaceTest" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part3.*" />
+          <option name="PATTERN" value="fc.java.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassObjectInstance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part3.ClassObjectInstance" />
+    <configuration name="ObjectPolyArg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part4.ObjectPolyArg" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part3.*" />
+          <option name="PATTERN" value="fc.java.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.model.EmployeeTest" />
+    <configuration name="ObjectPolyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part4.ObjectPolyArray" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.model.*" />
+          <option name="PATTERN" value="fc.java.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoneStaticAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part3.NoneStaticAccess" />
+    <configuration name="ObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part4.ObjectTest" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part3.*" />
+          <option name="PATTERN" value="fc.java.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part3.StaticAccess" />
+    <configuration name="ObjectToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.part4.ObjectToString" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part3.*" />
+          <option name="PATTERN" value="fc.java.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmployeeTest" />
-        <item itemvalue="Application.ClassObjectInstance" />
-        <item itemvalue="Application.AllStaticTest" />
-        <item itemvalue="Application.NoneStaticAccess" />
-        <item itemvalue="Application.StaticAccess" />
+        <item itemvalue="Application.ObjectToString" />
+        <item itemvalue="Application.ObjectPolyArray" />
+        <item itemvalue="Application.ObjectPolyArg" />
+        <item itemvalue="Application.ObjectTest" />
+        <item itemvalue="Application.InterfaceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +209,16 @@
       <workItem from="1675734115159" duration="6635000" />
       <workItem from="1675828651824" duration="2480000" />
       <workItem from="1675844900378" duration="3102000" />
-      <workItem from="1676941610824" duration="720000" />
+      <workItem from="1676941610824" duration="6316000" />
+      <workItem from="1676989289122" duration="349000" />
+      <workItem from="1677033764782" duration="5713000" />
+      <workItem from="1677286823732" duration="4117000" />
+      <workItem from="1677388327004" duration="4103000" />
+      <workItem from="1677458976279" duration="2545000" />
+      <workItem from="1677496048297" duration="5185000" />
+      <workItem from="1677542515352" duration="3715000" />
+      <workItem from="1677668983116" duration="3686000" />
+      <workItem from="1677757834407" duration="5160000" />
     </task>
     <task id="LOCAL-00001" summary="fcjava">
       <created>1675228410986</created>
@@ -195,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676942223406</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fcjava">
+      <created>1676942502178</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676942502178</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
