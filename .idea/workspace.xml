@@ -5,41 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2df28cd9-b67f-4d22-896c-741d4fcf3956" name="Changes" comment="fcjava">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/AbstractClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/DogCatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/DogCatUpcastingTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/EmployeeInitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/InterfaceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/IsNotOverride.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectPolyArg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectPolyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/ObjectToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/OverrideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyMethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/PolyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/part4/RempVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/Radio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/RemoCon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/poly/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_91.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/ArrayListBestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/DataBaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/GsonFromAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/GsonToAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/HelloWorldString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/IntArrayBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/IntefaceAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MinMaxFinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyBookArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyIntArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/MyObjectArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/RandomAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/StringCompare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part1/StringSplit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/ArrayListGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/CharacterCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/CollectionBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionInterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionInterfaceTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/FunctionInterfaceTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/GenericLimitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/IntegerStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/IntegerUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/LambdaApply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MapStreamExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/MovieListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/PairGenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/PersonFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/SortCompareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamAPITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/StringUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/UniqueNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part2/WrapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/AverageCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/BB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/BookArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/IntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/IntegerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MSSQLDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MathOperationImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MinMaxFindler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/MySQLDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/ObjectArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/ObjectArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/OracleDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/PersonFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/StringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fc/java/model2/StringUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fc/java/model/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fc/java/model/EmployeeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fc/java/model/MempVO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fc/java/model/RempVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastCampus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FastCampus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FastCampus/fc/java/poly/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FastCampus/fc/java/poly/Board.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +87,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -69,14 +108,15 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/fcjava/FastCampus/src/fc/java/poly&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FC/동영상/Course2/gson-2.8.9.jar&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.packagesearch.PackageSearchGeneralConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -84,14 +124,17 @@
       <recent name="C:\fcjava\FastCampus\src\fc\java\poly" />
       <recent name="C:\fcjava\FastCampus\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="fc.java.model2" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ObjectToString">
-    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.InterfaceTest" />
+  <component name="RunManager" selected="Application.MapStreamExample2">
+    <configuration name="LambdaApply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.LambdaApply" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectPolyArg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.ObjectPolyArg" />
+    <configuration name="MapStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MapStreamExample" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectPolyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.ObjectPolyArray" />
+    <configuration name="MapStreamExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.MapStreamExample2" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.ObjectTest" />
+    <configuration name="StreamAPITest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamAPITest" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fc.java.part4.ObjectToString" />
+    <configuration name="StreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fc.java.course2.part2.StreamExample" />
       <module name="FastCampus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fc.java.part4.*" />
+          <option name="PATTERN" value="fc.java.course2.part2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ObjectToString" />
-        <item itemvalue="Application.ObjectPolyArray" />
-        <item itemvalue="Application.ObjectPolyArg" />
-        <item itemvalue="Application.ObjectTest" />
-        <item itemvalue="Application.InterfaceTest" />
+        <item itemvalue="Application.MapStreamExample2" />
+        <item itemvalue="Application.MapStreamExample" />
+        <item itemvalue="Application.StreamExample" />
+        <item itemvalue="Application.StreamAPITest" />
+        <item itemvalue="Application.LambdaApply" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +262,17 @@
       <workItem from="1677542515352" duration="3715000" />
       <workItem from="1677668983116" duration="3686000" />
       <workItem from="1677757834407" duration="5160000" />
+      <workItem from="1677897395277" duration="5989000" />
+      <workItem from="1678105206753" duration="5017000" />
+      <workItem from="1678225895373" duration="6941000" />
+      <workItem from="1678360638982" duration="6621000" />
+      <workItem from="1678497998148" duration="4154000" />
+      <workItem from="1678682177707" duration="9715000" />
+      <workItem from="1678786773934" duration="5112000" />
+      <workItem from="1678960092732" duration="1805000" />
+      <workItem from="1679020691323" duration="115000" />
+      <workItem from="1679039039813" duration="824000" />
+      <workItem from="1679099367454" duration="9374000" />
     </task>
     <task id="LOCAL-00001" summary="fcjava">
       <created>1675228410986</created>
@@ -248,7 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676942502178</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fcjava">
+      <created>1677897527559</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677897527559</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fcjava">
+      <created>1677897574028</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677897574028</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,5 +336,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fcjava" />
     <option name="LAST_COMMIT_MESSAGE" value="fcjava" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

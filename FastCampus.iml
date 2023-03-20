@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="gson-2.8.9" level="project" />
+    <orderEntry type="library" name="gson-2.8.91" level="project" />
   </component>
 </module>
