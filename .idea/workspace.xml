@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2df28cd9-b67f-4d22-896c-741d4fcf3956" name="Changes" comment="fcjava">
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonMemAddfromJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonMemAddtoJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsonfromJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/GsontoJson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/JsoupExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/course2/part3/WeatherExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model3/Addrsss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model3/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fc/java/model3/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_8_91.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_91.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -215,6 +205,9 @@
       <workItem from="1679724615310" duration="6045000" />
       <workItem from="1679907946076" duration="2811000" />
       <workItem from="1679953792271" duration="2411000" />
+      <workItem from="1680304104127" duration="2032000" />
+      <workItem from="1680563139058" duration="796000" />
+      <workItem from="1680603616177" duration="1118000" />
     </task>
     <task id="LOCAL-00001" summary="fcjava">
       <created>1675228410986</created>
@@ -272,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679309555266</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fcjava">
+      <created>1680304212321</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680304212321</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
